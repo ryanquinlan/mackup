@@ -219,6 +219,8 @@ SUPPORTED_APPS = {
 
     'Nano': ['.nanorc'],
 
+	'Ngrok': ['.ngrok'],
+
     'nvALT': [PREFERENCES + 'net.elasticthreads.nv.plist',
               APP_SUPPORT + 'Notational Velocity',
               APP_SUPPORT + 'Notational Data'],

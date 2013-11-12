@@ -88,7 +88,8 @@ SUPPORTED_APPS = {
              '.bashrc',
              '.profile',
              '.bash_profile',
-             '.inputrc'],
+             '.inputrc',
+             '.bash_prompt'],
 
     'Bash it': ['.bash_it'],
 

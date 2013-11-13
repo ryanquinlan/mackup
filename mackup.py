@@ -77,6 +77,8 @@ SUPPORTED_APPS = {
         APP_SUPPORT + 'Adobe/Lightroom/Modules',
         APP_SUPPORT + 'Adobe/Lightroom/Plugins',
         APP_SUPPORT + 'Adobe/Lightroom/Watermarks'],
+    
+    'AnyConnect': ['.anyconnect'],
 
     'AppCode 2': [APP_SUPPORT + 'appCode20',
                   PREFERENCES + 'appCode20'],
